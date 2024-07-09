@@ -1,0 +1,30 @@
+1) Create a Directory
+mkdir [directory_name]
+mkdir "directory name"
+
+2) Clearing the Terminal
+clear
+
+3) Deleting a Directory
+rmdir directory_name
+rmdir "directory_name"
+
+4) Print / Present the current directory
+pwd
+
+5) List Command
+ls
+
+6) Changing Directory
+cd directory_path
+
+7) Go back one directory
+cd..
+
+8) Create a File
+touch file_name.ext
+
+9) Remove a file
+rm file_name.txt
+
+
